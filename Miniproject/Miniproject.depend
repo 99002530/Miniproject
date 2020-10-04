@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1601798198 source:c:\users\anjali dasam\desktop\jyo folder\miniproject\readcsv.cc
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<iterator>
+
+1601816813 source:c:\users\anjali dasam\desktop\jyo folder\miniproject\data.cc
+	"data.h"
+
+1601819782 c:\users\anjali dasam\desktop\jyo folder\miniproject\data.h
+
+1601822506 c:\users\anjali dasam\desktop\jyo folder\miniproject\region.h
+	<iostream>
+	"parameters.h"
+	"data.h"
+	<string>
+
+1601819530 c:\users\anjali dasam\desktop\jyo folder\miniproject\parameters.h
+	<iostream>
+
+1601817533 source:c:\users\anjali dasam\desktop\jyo folder\miniproject\parameters.cc
+	"parameters.h"
+
+1601820455 source:c:\users\anjali dasam\desktop\jyo folder\miniproject\mini_test.cc
+	"gtest/gtest.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"RegionInfo.h"
+
+1601821825 c:\users\anjali dasam\desktop\jyo folder\miniproject\regioninfo.h
+	"region.h"
+	<list>
+	<iterator>
+
+1601822297 source:c:\users\anjali dasam\desktop\jyo folder\miniproject\region.cc
+	"region.h"
+	<iostream>
+	<string>
+
+1601822360 source:c:\users\anjali dasam\desktop\jyo folder\miniproject\regioninfo.cc
+	"RegionInfo.h"
+	"data.h"
+	"parameters.h"
+	"region.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
